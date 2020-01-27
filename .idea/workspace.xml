@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="be701b85-2990-420e-9e06-265d900b5301" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1WzH5ejo5nTbjTSRaPHU7ClEbhO" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Generic/src/main/Driver" />
+    <property name="settings.editor.selected.configurable" value="reference.settings.project.maven.importing" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Generic/src/main/Driver" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Generic/src/main/java/Driver" />
+      <recent name="$PROJECT_DIR$/Generic/src/main/java" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG.AmazonTest (2)">
+    <configuration name="AmazonTest (1)" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="AmazonHome" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="testRunner.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="testRunner" />
+      <option name="MAIN_CLASS_NAME" value="testRunner.AmazonTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AmazonTest (2)" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="AmazonHome" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="testRunner.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="testRunner" />
+      <option name="MAIN_CLASS_NAME" value="testRunner.AmazonTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AmazonTest (4)" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="AmazonHome" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="testRunner.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="testRunner" />
+      <option name="MAIN_CLASS_NAME" value="testRunner.AmazonTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AmazonTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="AmazonHome" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="testRunner.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="testRunner" />
+      <option name="MAIN_CLASS_NAME" value="testRunner.AmazonTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AmazonTest.test1" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="AmazonHome" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="testRunner.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="testRunner" />
+      <option name="MAIN_CLASS_NAME" value="testRunner.AmazonTest" />
+      <option name="METHOD_NAME" value="test1" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.AmazonTest (2)" />
+        <item itemvalue="TestNG.AmazonTest.test1" />
+        <item itemvalue="TestNG.AmazonTest" />
+        <item itemvalue="TestNG.AmazonTest (1)" />
+        <item itemvalue="TestNG.AmazonTest (4)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="be701b85-2990-420e-9e06-265d900b5301" name="Default Changelist" comment="" />
+      <created>1580145320736</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1580145320736</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="564" y="572" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1580152934521">
+      <screen x="0" y="0" width="2048" height="1280" />
+    </state>
+    <state x="564" y="572" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.2048.1280@0.0.2048.1280" timestamp="1580152934521" />
+    <state x="790" y="527" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages" timestamp="1580152937288">
+      <screen x="0" y="0" width="2048" height="1280" />
+    </state>
+    <state x="790" y="527" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages/0.0.2048.1280@0.0.2048.1280" timestamp="1580152937288" />
+    <state width="2006" height="319" key="GridCell.Tab.0.bottom" timestamp="1580159380489">
+      <screen x="0" y="0" width="2048" height="1280" />
+    </state>
+    <state width="2006" height="319" key="GridCell.Tab.0.bottom/0.0.2048.1280@0.0.2048.1280" timestamp="1580159380489" />
+    <state width="1334" height="319" key="GridCell.Tab.0.bottom/0.23.2048.1172@0.23.2048.1172" timestamp="1580159287681" />
+    <state width="2006" height="319" key="GridCell.Tab.0.center" timestamp="1580159380487">
+      <screen x="0" y="0" width="2048" height="1280" />
+    </state>
+    <state width="2006" height="319" key="GridCell.Tab.0.center/0.0.2048.1280@0.0.2048.1280" timestamp="1580159380487" />
+    <state width="1334" height="319" key="GridCell.Tab.0.center/0.23.2048.1172@0.23.2048.1172" timestamp="1580159287680" />
+    <state width="2006" height="319" key="GridCell.Tab.0.left" timestamp="1580159380487">
+      <screen x="0" y="0" width="2048" height="1280" />
+    </state>
+    <state width="2006" height="319" key="GridCell.Tab.0.left/0.0.2048.1280@0.0.2048.1280" timestamp="1580159380487" />
+    <state width="1334" height="319" key="GridCell.Tab.0.left/0.23.2048.1172@0.23.2048.1172" timestamp="1580159287680" />
+    <state width="2006" height="319" key="GridCell.Tab.0.right" timestamp="1580159380488">
+      <screen x="0" y="0" width="2048" height="1280" />
+    </state>
+    <state width="2006" height="319" key="GridCell.Tab.0.right/0.0.2048.1280@0.0.2048.1280" timestamp="1580159380488" />
+    <state width="1334" height="319" key="GridCell.Tab.0.right/0.23.2048.1172@0.23.2048.1172" timestamp="1580159287681" />
+    <state x="525" y="248" key="SettingsEditor" timestamp="1580146402936">
+      <screen x="0" y="23" width="2048" height="1172" />
+    </state>
+    <state x="525" y="248" key="SettingsEditor/0.23.2048.1172@0.23.2048.1172" timestamp="1580146402936" />
+    <state x="701" y="472" key="com.intellij.ide.util.TipDialog" timestamp="1580158376194">
+      <screen x="0" y="0" width="2048" height="1280" />
+    </state>
+    <state x="701" y="472" key="com.intellij.ide.util.TipDialog/0.0.2048.1280@0.0.2048.1280" timestamp="1580158376194" />
+    <state x="401" y="309" key="new project wizard" timestamp="1580152329876">
+      <screen x="0" y="0" width="2048" height="1280" />
+    </state>
+    <state x="401" y="309" key="new project wizard/0.0.2048.1280@0.0.2048.1280" timestamp="1580152329876" />
+    <state x="401" y="306" key="new project wizard/0.23.2048.1172@0.23.2048.1172" timestamp="1580146684708" />
+  </component>
+</project>
